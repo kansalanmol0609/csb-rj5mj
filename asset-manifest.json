@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kansalanmol0609.github.io/csb-rj5mj/static/css/main.de8f1bca.chunk.css",
+    "main.js": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/main.d22280a1.chunk.js",
+    "main.js.map": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/main.d22280a1.chunk.js.map",
+    "runtime-main.js": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/runtime-main.1ad15dd7.js",
+    "runtime-main.js.map": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/runtime-main.1ad15dd7.js.map",
+    "static/js/2.007647b4.chunk.js": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/2.007647b4.chunk.js",
+    "static/js/2.007647b4.chunk.js.map": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/2.007647b4.chunk.js.map",
+    "index.html": "https://kansalanmol0609.github.io/csb-rj5mj/index.html",
+    "static/css/main.de8f1bca.chunk.css.map": "https://kansalanmol0609.github.io/csb-rj5mj/static/css/main.de8f1bca.chunk.css.map",
+    "static/js/2.007647b4.chunk.js.LICENSE.txt": "https://kansalanmol0609.github.io/csb-rj5mj/static/js/2.007647b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad15dd7.js",
+    "static/js/2.007647b4.chunk.js",
+    "static/css/main.de8f1bca.chunk.css",
+    "static/js/main.d22280a1.chunk.js"
+  ]
+}
